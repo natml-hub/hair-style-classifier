@@ -1,0 +1,16 @@
+# Unity
+Library/
+Temp/
+obj/
+Logs/
+
+# IDE
+#.vscode/
+.gradle/
+.vs/
+
+# NatML
+ProjectSettings/NatMLHub.asset
+
+# Misc
+.DS_Store
